@@ -1,3 +1,5 @@
+<!-- insert-section: nuget {{MCPRepositoryMetadata}} -->
+
 # <img height="36" width="36" src="https://learn.microsoft.com/fabric/media/fabric-icon.png" alt="Microsoft Fabric Logo" /> Microsoft Fabric MCP Server
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/microsoft/mcp/blob/main/LICENSE)
